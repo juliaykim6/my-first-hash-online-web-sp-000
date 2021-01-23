@@ -4,7 +4,6 @@ my_hash = {
   "iPad" => "Apple Pencil"
   "Laptop" => "Keyboard/Mouse"
 }
-
 end
 
 
